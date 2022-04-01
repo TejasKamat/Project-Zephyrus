@@ -25,3 +25,6 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 *TOTAL*
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/TejasKamat/Project-Zephyrus/total.svg)](https://github.com/TejasKamat/Project-Zephyrus/releases)
+
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/TejasKamat/Project-Zephyrus/12.5.0/total.svg)].(https://github.com/TejasKamat/Project-Zephyrus/releases)
